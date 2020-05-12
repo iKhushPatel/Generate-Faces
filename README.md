@@ -64,7 +64,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-# Output
+## 3. Output
 Generate new faces using Generative Adversarial Networks (GANs).  
 The model is trained on the CelebFaces Attributes Dataset (CelebA):
 ![Image of Training Set](https://github.com/iKhushPatel/Generate-Faces/blob/master/assets/processed_face_data.png)
